@@ -23,6 +23,7 @@ Técnologias ultilizadas para realizar soluções de requisições e problemas d
 
 ### Atividades
 1. Relatório de Produtos Vendidos
+
 Gerar um relatório com:
 
 Valores tabelados dos produtos
@@ -39,9 +40,11 @@ Agrupar o valor das vendas dos vendedores no ano de 2022 para analisar o desempe
 Selecionar os 10 produtos com os preços tabelados mais caros.
 
 4. Vendas por Fornecedor
+   
 Mostrar a quantidade total de vendas por fornecedor nos anos de 2021 e 2020, e a diferença entre o total de vendas desses anos.
 
 5. Categorias Mais Vendidas
+
 Selecionar as 5 categorias que mais venderam em cada ano.
 
 
